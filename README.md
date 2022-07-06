@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhanu072
 - 👀 I’m interested in DataScience , ArtificialIntelligence , MachineLearning.
-- 🌱 I’m currently learning ArtificialIntelligence Using Python
+- 🌱 I’m currently learning Artificial Intelligence Using Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
